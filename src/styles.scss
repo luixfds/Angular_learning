@@ -1,0 +1,56 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+    padding-bottom: 500px;
+    .aula{
+        border-bottom: solid blue;
+        padding: 2rem;
+        margin-bottom: 1rem;
+    }
+}
+
+* {
+    margin: 0;
+}
+
+// VARIABLES
+
+// fONT
+$font-standard: 'Bosch Office Sans';
+
+// COLORS
+$color-white-1: #FCFCFC;
+$color-white-2: #F5F5F5;
+$color-white-3: #EFEFEF;
+$color-white-4: #EBEBEB;
+
+$color-black-1: #121212;
+$color-black-2: #2C2C2C;
+$color-black-3: #454545;
+$color-black-4: #585858;
+
+$color-grey-1: #D2D2D2;
+$color-grey-2: #ABABAB;
+$color-grey-3: #8A8A8A;
+
+$color-blue-1: #2173C2;
+$color-blue-2: #1D64A8;
+$color-blue-3: #19558F;
+
+$color-red-1: #FF1D27;
+$color-red-2: #EC1B24;
+$color-red-3: #D41820;
+
+$color-orange:#FF8F51;
+$color-purple: #9E2896;
+$color-blue: #007BC0;
+$color-moss: #18837E;
+$color-green: #00884A;
+
+$sucess-green-1:#acfec6;
+$sucess-green-2:#00b038;
+$warning-yellow-1:#FFE072;
+$warning-yellow-2:#E3B100;
+
+$shadow-1: rgba(182, 182, 182, 0.158);
+
